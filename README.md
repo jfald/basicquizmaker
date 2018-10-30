@@ -9,6 +9,5 @@ Of course I have modified the tutorial to be specific to making a quiz. I notice
 The tutorial isn't always explicit in what to do or why you are doing it. I feel I have a basic background that has allowed me to read between the lines. The Postman app they recommended to use is pretty awesome. I could have saved some time to take a closer look at some of the settings used, other wise I was able to get the API working. 
 
 # To Do
-Obviously get the Frontend/Angular implemented. (Too much to list under this item for a readme file..)
-Update the Schema. I need to better map my question json example to a mongo.
-
+1. Obviously get the Frontend/Angular implemented. (Too much to list under this item for a readme file..)
+2. Update the Schema. I need to better map my question json example to a mongo.
