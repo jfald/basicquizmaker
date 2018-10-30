@@ -1,19 +1,15 @@
-<<<<<<< HEAD
 =======
 //https://medium.com/netscape/mean-app-tutorial-with-angular-4-part-1-18691663ea96
->>>>>>> ce908ed454a4767e3ddf922b2a2d6207c6214bb7
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
-<<<<<<< HEAD
 =======
 var mongoose = require('mongoose')
 mongoose.connect('mongodb://127.0.0.1:27017/utahdlquiz', {useMongoClient: true})
   .then(()=> {console.log(`Succesfully Connected to the Mongodb Database at URL : mongodb://127.0.0.1:27017/utahdlquiz`)})
   .catch(()=> { console.log(`Error Connecting to the Mongodb Database at URL : mongodb://127.0.0.1:27017/utahdlquiz`)})
->>>>>>> ce908ed454a4767e3ddf922b2a2d6207c6214bb7
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');

@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "basicquizmaker",
-=======
-  "name": "utahdlquiz",
->>>>>>> ce908ed454a4767e3ddf922b2a2d6207c6214bb7
   "version": "0.0.0",
   "private": true,
   "scripts": {
