@@ -1,5 +1,5 @@
 # Basic Quiz Maker API
-This is one part of two projects. It is the API portion of a Basic Quiz Maker.
+This is one part of two projects. It is the API portion of a Basic Quiz Maker. More documentation may be coming after I get the second project completed. 
 
 # Completed...
 Using this tutorial/[link](https://medium.com/netscape/mean-app-tutorial-with-angular-4-part-1-18691663ea96) I have setup the API for the CRUD actions.
